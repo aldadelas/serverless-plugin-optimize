@@ -67,7 +67,7 @@ class Optimize {
         functions: [],
         options: {
           debug: false,
-          exclude: ['aws-sdk'],
+          exclude: [],
           external: [],
           externalPaths: {},
           extensions: [],
